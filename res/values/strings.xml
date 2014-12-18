@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWord</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="thankyou">Thank You!</string>
+    <string name="button_send">Send Out</string>
+    <string name="text_hint">Please Hit a word.</string>
+    <string name="title_activity_display_message">DisplayMessage</string>
+    <string name="action_search">Search</string>
+    <string name="button_testSOAP">Test SOAP</string>
+    <string name="title_activity_event_log">Display EventLogs</string>
+    <string name="button_getEventLog">Get EventLogs</string>
+
+</resources>

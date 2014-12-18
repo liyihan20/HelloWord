@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/eventlog_menu_item_1"
+        android:title="check sysNum"/>
+    <item
+        android:id="@+id/eventlog_menu_item_2"
+        android:title="check event"/>
+    <item
+        android:id="@+id/eventlog_menu_item_3"
+        android:title="check all"/>
+
+</menu>
